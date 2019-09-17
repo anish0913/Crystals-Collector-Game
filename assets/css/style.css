@@ -1,0 +1,52 @@
+body 
+{
+	background-image: url("../images/background.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.jumbotron 
+{
+	background-color: #cccccc;
+}
+
+#gameSection, #scoreSection 
+{
+	background-color: #cccccc;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#buttonSection
+ {
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+ }
+
+h1, h2, h3 
+{
+	font-family: 'Times New Roman', cursive;
+}
+
+p 
+{
+	font-family: 'Times New Roman', sans-serif;
+}
+
+.numberBox 
+{
+	font-size: 90px;
+	margin: 0px;
+}
+
+.icons 
+{
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
