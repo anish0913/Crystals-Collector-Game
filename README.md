@@ -8,9 +8,9 @@ When the player clicks on a crystal it will add a specific amount of points to t
 
 Sources Used:
 
-GOOGLE
-W3SCHOOL
-STACK OVERFLOW
-NJIT PROFESSOR
-GITHUB
+GOOGLE,
+W3SCHOOL,
+STACK OVERFLOW,
+NJIT PROFESSOR,
+GITHUB,
 
